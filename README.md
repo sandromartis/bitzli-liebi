@@ -1,4 +1,4 @@
 Spreading some love!
 ===================
 
-http://bitzliebi.ch
+http://bitzliliebi.ch

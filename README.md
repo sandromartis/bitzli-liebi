@@ -1,4 +1,4 @@
 Spreading some love!
 ===================
 
-http://bitzliliebi.ch
+http://bitzliliebi.ch?love=myname
